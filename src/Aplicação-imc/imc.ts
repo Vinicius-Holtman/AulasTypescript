@@ -17,5 +17,5 @@ export class Indice implements IDadosImc {
     }
 }
 
-const result = new Indice(80, 1.80)
+const result = new Indice(90, 1.94)
 console.log(result.calculaImc());
